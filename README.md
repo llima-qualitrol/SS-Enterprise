@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to SmartSub Enterprise!
 
 You can use the [editor on GitHub](https://github.com/llima-qualitrol/SS-Enterprise/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
